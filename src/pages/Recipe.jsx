@@ -1,0 +1,14 @@
+import React from 'react'
+function Recipe() {
+  return (
+    <>
+    <div className="text-center mt-20">
+        <h1 className="text-4xl">
+          Recipe
+        </h1>
+    </div>
+    </>
+  )
+}
+
+export default Recipe
